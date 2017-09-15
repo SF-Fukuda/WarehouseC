@@ -5,9 +5,10 @@ int main(void){
 	char ch = 0;
 
 	printf(">1文字を入力してください：");
-	scanf("%s",&ch);
+	scanf("%c",&ch);
 
-	printf("%sの文字コードは%sです。",ch,ch);
+	//%cで文字そのものを表示、%Xで文字コードを表示
+	printf(">%cの文字コードは0x%Xです。\n",ch,ch);
 
-	return; 
+	return 0; 
 }
