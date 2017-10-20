@@ -13,12 +13,12 @@ int main(void){
 	for(i=2;i<num;i++){
 
 		/*解答1行の場合*/
-		flg = num % i;
-		
+		if(!(flg = num % i)) break;   
+	}	
 		
 		if(flg) printf("素数\n");
 		else printf("合成数\n");
-	}
+	
 
 	return 0;
 }
