@@ -10,9 +10,9 @@ double avrg(double x,double y,double z){
 
 int main(void){
 
-	int num1 = 592;
-	int num2 = 37;
-	int num3 = 896;
+	int num1 = 10;
+	int num2 = 20;
+	int num3 = 30;
 
 	printf("%lf\n", avrg(num1,num2,num3));
 
