@@ -1,0 +1,1 @@
+int graCF(int a,int b);
