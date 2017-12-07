@@ -1,0 +1,34 @@
+{
+  "dojo" : [
+      {
+        "name":"CoderDojo Kashiwa",
+        "longitude": 35.858835,
+        "latitude" : 139.975670,
+        "adress":"千葉県柏市東上町２−２８ 第１水戸屋ビル"
+      },
+      {
+        "name":"CoderDojo Kashiwa-no-ha",
+        "longitude": 35.895061,
+        "latitude" : 139.951846,
+        "adress":"千葉県柏市 若柴178 番地4 柏の葉キャンパス１４８街区２"
+      },
+      {
+        "name":"CoderDojo Nagareyama",
+        "longitude": 35.877079,
+        "latitude" : 139.937826,
+        "adress":"千葉県流山市駒木４７４"
+      },
+      {
+        "name":"CoderDojo Shounan",
+        "longitude": 35.845000,
+        "latitude" : 140.006911,
+        "adress":"柏市大井1849-14"
+      },
+      {
+        "name":"CoderDojo Minami-Kashiwa",
+        "longitude": 35.831121,
+        "latitude" : 139.956031,
+        "adress":"千葉県柏市光ケ丘団地１−１"
+      }
+    ]
+}
